@@ -10,6 +10,8 @@ A modern React-based restaurant web application that allows users to browse the 
 - 📱 Responsive design
 - ⚡ Modern React UI
 - 🔗 Backend API integration
+-     fast 2 sec Ai response 
+-     
 
 ## 🛠️ Tech Stack
 
